@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog for cs 325
+title: Welcome to my blog for CS 325
 ---
-
+test
